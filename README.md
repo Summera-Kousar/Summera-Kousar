@@ -4,7 +4,7 @@
 <h3 align="center">I am passionate to become a strong developer and dive into the world of Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=summera-kousar&label=Profile%20views&color=0e75b6&style=flat" alt="summera-kousar" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
